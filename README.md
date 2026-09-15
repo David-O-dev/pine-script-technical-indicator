@@ -1,9 +1,9 @@
 ![Chart Screenshot](image.png)
 
-## pine-script-technical-indicator
+## Pine-Script-Technical-Indicator
 First pine script indicator
 
-## project overview
+## Project Overview
 This project focuses on the design, mathematical modeling, and statistical backtesting of a trading strategy for cryptocurrency markets. Built using TradingView's Pine Script, the algorithm aims to capture trend momentum while minimizing risk. It includes about 5 existing strategies, which are used to find the best entry price with the least risk and the highest return. 
 
 --
@@ -21,7 +21,7 @@ This project focuses on the design, mathematical modeling, and statistical backt
 
 -- 
 
-## How to use in TradingView
+## How to Use in TradingView
 - Open www.tradingview.com
 - Open any chart
 - Click on the "Pine Editor" tab at the bottom
@@ -30,7 +30,7 @@ This project focuses on the design, mathematical modeling, and statistical backt
 
 --
 
-## What I learned
+## What I Learned
 - Code that determines the color and shape of the signal
 - If-Else statements in context
 - Importing other indicators into my own
