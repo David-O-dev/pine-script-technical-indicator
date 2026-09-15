@@ -1,3 +1,5 @@
+![Chart Screenshot](image.png)
+
 ## pine-script-technical-indicator
 First pine script indicator
 
@@ -33,5 +35,3 @@ This project focuses on the design, mathematical modeling, and statistical backt
 - If-Else statements in context
 - Importing other indicators into my own
 - Signal-to-Noise Ratio: Adding too many lines of code causes lagging problems, which delays the script itself. Decreases accuracy rather than increasing it.
-
-![Chart Screenshot](image.png)
