@@ -1,4 +1,4 @@
-<img width="977" height="668" alt="image" src="https://github.com/user-attachments/assets/ccf7319f-368b-42b1-8cf8-ae188d9889af" /># pine-script-technical-indicator
+## pine-script-technical-indicator
 First pine script indicator
 
 ## project overview
